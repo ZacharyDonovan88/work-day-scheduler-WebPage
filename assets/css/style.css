@@ -38,7 +38,7 @@ textarea {
   margin: auto;
 }
 
-row p {
+.row p {
   text-align: center;
   border-radius: 15px;
   padding-bottom: 10px;
@@ -119,4 +119,22 @@ hr {
 
 .futureTime {
   background-color: #77dd77;
+}
+
+@media screen and (max-width: 610px) {
+#blockId {
+  width: 290px;
+  text-align: center;
+  height: 200px;
+  padding-bottom: 30px;
+}
+
+.saveBtn {
+  border-radius: 0;
+}
+
+.hour {
+  text-align: center;
+  justify-content: center;
+}
 }
