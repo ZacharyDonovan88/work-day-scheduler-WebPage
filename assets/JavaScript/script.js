@@ -4,7 +4,7 @@
     });
 
     setInterval(function () {
-        var currentTime = moment().format("MMMM Do YYYY, h:mm a");
+        var currentTime = moment().format("dddd, MMMM Do YYYY, h:mm a");
         $("#currentDay").text(currentTime);
      }, 1000)
     
@@ -96,9 +96,10 @@
 
 
 
-
-
         // another method to do this throught JS
+
+
+        
 
 /* 
     var currentDay = document.getElementById ("currentDay")
