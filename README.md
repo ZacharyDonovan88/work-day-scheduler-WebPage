@@ -23,6 +23,9 @@ WebPage has been tested and should be compatible on all supported browsers inclu
 https://zacharydonovan88.github.io/work-day-scheduler-WebPage/
 
 ## Screenshots
+![screenshot2](https://user-images.githubusercontent.com/109838413/194857796-c246fde0-e8e6-45d5-9b27-71210c3a5204.PNG)
+![screenshot](https://user-images.githubusercontent.com/109838413/194857804-c42193f3-e0c2-4531-a465-509d913d61bf.PNG)
+
 
 
 
