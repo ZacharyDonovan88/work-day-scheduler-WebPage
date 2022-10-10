@@ -1,5 +1,5 @@
     $(document).ready(function () {
-    var currentTime = moment().format("MMMM Do YYYY, h:mm a");
+    var currentTime = moment().format("dddd, MMMM Do YYYY, h:mm a");
     $("#currentDay").text(currentTime);
     });
 
