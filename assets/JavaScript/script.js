@@ -3,9 +3,10 @@
     $("#currentDay").text(currentTime);
     });
 
-    setInterval(function ()
-    {Element.innerHTML += currentTime},
-    1000);
+    setInterval(function () {
+        var currentTime = moment().format("MMMM Do YYYY, h:mm a");
+        $("#currentDay").text(currentTime);
+     }, 1000)
     
     var currentHour = parseInt(moment().format('HH'));
 
